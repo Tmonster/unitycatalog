@@ -6,7 +6,7 @@ The CLI tool allows users to interact with a Unity Catalog server to create and 
 
 !!! note "Specify token for authenticated access"
 
-    If you have set up authentication, you will need to provide an authentication token when executng all of the following commands on this page.
+    If you have set up authentication, you will need to provide an authentication token when executing all of the following commands on this page.
     For example, in the following section, to run the catalog list command, you would specify:
 
     ```sh
